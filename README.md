@@ -209,7 +209,7 @@ Classificação do episódio com base nas visualizações (10 como classificaç�
 Tempo total (em minutos) de duração de todos os filmes e séries incluídos: 3552
 ```
 
-# Referencias
+# Referências
 
 https://www.alura.com.br/apostila-java-orientacao-objetos?_gl=1*1llqzn9*_ga*MTE5NjU0NjQ2Ni4xNjkxNjcyODIw*_ga_1EPWSW3PCS*MTcwMjA3Njg0Ni4yLjEuMTcwMjA4NjQwMC4wLjAuMA..*_fplc*SUlFS3NQUTJ5WGwyNlklMkJ1bHBjWk85aXNSY2VvTEloRldudkJ5NHhWNjlZQVdhak5pUVdlRnhkcWJEVGxmMU1KTDVJOXlUNTZyancwczY5SDRodHZ2aFdZNXpsTmZBbERrOEJYNlkxajRZSzA5VUJEdEU4R2llUU5uRTJlclElM0QlM0Q.
 

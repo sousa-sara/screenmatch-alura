@@ -98,4 +98,113 @@ Para episódios, o código calcula uma classificação com base no número total
 Ao final do código, são exibidas informações resumidas de todas as instâncias, como ficha técnica, avaliações, classificações e recomendações.
 Também é mostrado o tempo total de duração de todos os filmes e séries.
 
-#
+# Retorno de Dados
+```
+FICHA TÉCNICA
+
+Nome: O Grande Gatsby
+Ano: 2013
+Duração do filme em minutos: 143
+
+INFORMAÇÕES DE AVALIAÇÃO
+
+Total das Avaliações: 3
+Soma das Avaliações: 30.0
+Média das Avaliações: 10.0
+
+INFORMAÇÃO DE CLASSIFICAÇÃO
+
+Classificação do Filme (5 como classificação máxima): 5
+
+RECOMENDAÇÃO: Está entre os preferidos do momento.
+
+---------------------------------------------------------
+
+FICHA TÉCNICA
+
+Nome: Interestelar
+Ano: 2014
+Duração do filme em minutos: 169
+
+INFORMAÇÕES DE AVALIAÇÃO
+
+Total das Avaliações: 3
+Soma das Avaliações: 13.0
+Média das Avaliações: 4.333333333333333
+
+INFORMAÇÃO DE CLASSIFICAÇÃO
+
+Classificação do Filme (5 como classificação máxima): 2
+
+RECOMENDAÇÃO: Muito bem avaliado no momento.
+
+---------------------------------------------------------
+
+FICHA TÉCNICA
+
+Nome: Dark
+Ano: 2017
+
+INFORMAÇÕES DE TEMPORADAS
+
+Quantidade de Temporadas: 3
+Episódios por Temporada: 8
+Minutos por Episódio: 60
+Duração em minutos para maratonar a série: 1440
+
+INFORMAÇÕES DE AVALIAÇÃO
+
+Total das Avaliações: 3
+Soma das Avaliações: 27.5
+Média das Avaliações: 9.166666666666666
+
+INFORMAÇÃO DE CLASSIFICAÇÃO
+
+Classificação da série (100 como classificação máxima): 90
+
+RECOMENDAÇÃO: Está entre os preferidos do momento.
+
+INFORMAÇÕES SOBRE EPISÓDIO DE DARK
+
+Número do Episódio: 1
+Nome: Secrets
+Total de Visualizações: 3000000
+Classificação do episódio com base nas visualizações (10 como classificação máxima): 10
+
+---------------------------------------------------------
+
+FICHA TÉCNICA
+
+Nome: Black Mirror
+Ano: 2011
+
+INFORMAÇÕES DE TEMPORADAS
+
+Quantidade de Temporadas: 5
+Episódios por Temporada: 6
+Minutos por Episódio: 60
+Duração em minutos para maratonar a série: 1800
+
+INFORMAÇÕES DE AVALIAÇÃO
+
+Total das Avaliações: 3
+Soma das Avaliações: 9.0
+Média das Avaliações: 3.0
+
+INFORMAÇÃO DE CLASSIFICAÇÃO
+
+Classificação da série (100 como classificação máxima): 30
+
+RECOMENDAÇÃO: Está entre os preferidos do momento.
+
+INFORMAÇÕES SOBRE EPISÓDIO DE BLACK MIRROR
+
+Número do Episódio: 1
+Nome do Episódio: The National Anthem
+Total de Visualizações: 2800
+Classificação do episódio com base nas visualizações (10 como classificação máxima): 5
+
+===========================================================
+
+Tempo total (em minutos) de duração de todos os filmes e séries incluídos: 3552
+```
